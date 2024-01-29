@@ -3,7 +3,7 @@
 A passionate software engineer with expertise in Web Development since 2019, I leverage technology and innovation to build and improve teraMedik HIS, a cutting-edge health information system at Terakorp Indonesia. Eager to learn and collaborate, I'm seeking challenging projects that make a real-world impact.
 
 **Currently working with:**
-- I Speak:
+- High Level:
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
