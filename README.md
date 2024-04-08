@@ -53,6 +53,7 @@ A passionate software engineer with expertise in Web Development since 2019. Eag
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=flat)
 - Code On:
+![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat-square)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
 ![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=flat)
 - Basic UI/UX Prototyping:
@@ -106,8 +107,10 @@ A passionate software engineer with expertise in Web Development since 2019. Eag
 ![Liskov Subtitution Badge](https://img.shields.io/badge/Liskov%20Subtitution-C6A664)
 ![Interface Segregation Badge](https://img.shields.io/badge/Interface%20Segregation-3B83BD)
 ![Dependency Inversion Badge](https://img.shields.io/badge/Dependency%20Inversion-79553D)
-
-
+- Pentesting:
+![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat)
+![OWASP ZAP](https://img.shields.io/badge/ZAP-00549E?logo=zap&logoColor=fff&style=flat)
+![Katana Badge](https://img.shields.io/badge/Katana-000?logo=katana&logoColor=fff&style=flat-square)
 
 **Favorite References**:
 ![Udemy Badge](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=flat)
