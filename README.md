@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A passionate software engineer with expertise in Web Development since 2019, I leverage technology and innovation to build and improve teraMedik HIS, a cutting-edge health information system at Terakorp Indonesia. Eager to learn and collaborate, I'm seeking challenging projects that make a real-world impact.
+A passionate software engineer with expertise in Web Development since 2019. Eager to learn and collaborate, I'm seeking challenging projects that make a real-world impact.
 
 **Currently speak with:**
 - High Level:
